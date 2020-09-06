@@ -1,2 +1,4 @@
 Hi
 Hello
+
+Testing of the SHA1 value
